@@ -1,6 +1,5 @@
 # Enterprise AI Research Agent
 
-> **MODUS Enterprise AI Build Challenge — Assignment 9**
 
 A web-based **Enterprise Research Intelligence Platform** that accepts any research question, conducts structured multi-source research, extracts and compares findings, detects contradictions, and synthesizes a traceable, evidence-backed conclusion.
 
